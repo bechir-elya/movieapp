@@ -103,7 +103,7 @@ export default function MovieList() {
                             component="div"
                             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
                         >
-                            Movie App
+                            Movies App
                         </Typography>
                         <Search>
                             <SearchIconWrapper>
