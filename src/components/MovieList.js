@@ -104,7 +104,7 @@ export default function MovieList() {
                             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
                         >
                             Movie App
-                        </Typography>movie
+                        </Typography>
                         <Search>
                             <SearchIconWrapper>
                                 <SearchIcon />
