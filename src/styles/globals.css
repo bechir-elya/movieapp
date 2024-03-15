@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+}
+
+.MuiStack-root {
+  margin-top: 3%;
+  
+}
+
+.MuiPagination-root {
+  padding: 1% 0;
+  border-radius: 5px;
+  background-color: black;
+}
+
+.MuiPagination-ul {
+  width: 35%;
+  margin: auto;
+  
+}
+
+.MuiButtonBase-root {
+  color: white;
+}
